@@ -12,7 +12,7 @@ Criar uma conta no Firebase
 ```
 
   
-- ❌Projeto 
+- ❌ Projeto 
 - ❌ Authenticação
 - ❌ Integração Web
 <h3>
