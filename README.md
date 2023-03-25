@@ -6,6 +6,7 @@
 <h4>
 ✔️ | ❌
 <h3>
+
 ```diff
 Criar uma conta no Firebase
 ```
