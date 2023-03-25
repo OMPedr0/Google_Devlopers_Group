@@ -3,13 +3,15 @@
 <h2>
 
 > **Nota**:  Este é um guia simples para configurar um projeto com Firebase e Next.js.
-
+<h4>
+✔️ | ❌
 <h3>
-
 ```diff
 Criar uma conta no Firebase
 ```
-- [x] Projeto 
+
+  
+- ❌Projeto 
 - ❌ Authenticação
 - ❌ Integração Web
 <h3>
