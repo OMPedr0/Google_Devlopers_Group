@@ -12,9 +12,9 @@ Criar uma conta no Firebase
 ```
 
   
-- ❌ Projeto 
-- ❌ Authenticação
-- ❌  Integração Web
+- ✔️ Projeto 
+- ✔️ Authenticação
+- ✔️  Integração Web
 <h3>
 
 ```diff
