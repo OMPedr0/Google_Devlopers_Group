@@ -20,9 +20,10 @@ Criar uma conta no Firebase
 ```diff
 Instalar o Node JS V.Lts
 ```
-- ❌ https://nodejs.org/en
 
+- ❌ https://nodejs.org/en
 <h3>
+
 ```diff
 Criar um projeto Next.js
 ```
