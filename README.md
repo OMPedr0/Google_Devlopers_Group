@@ -21,7 +21,7 @@ Criar uma conta no Firebase
 Instalar o Node JS V.Lts
 ```
 
-- ❌ https://nodejs.org/en
+- ✔️ https://nodejs.org/en
 <h3>
 
 ```diff
