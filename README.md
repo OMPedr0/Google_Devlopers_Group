@@ -14,9 +14,15 @@ Criar uma conta no Firebase
   
 - ❌ Projeto 
 - ❌ Authenticação
-- ❌ Integração Web
+- ❌  Integração Web
 <h3>
 
+```diff
+Instalar o Node JS V.Lts
+```
+- ❌ https://nodejs.org/en
+
+<h3>
 ```diff
 Criar um projeto Next.js
 ```
