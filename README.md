@@ -2,7 +2,7 @@
 
 <h2>
 
-> **Nota**:  Este é um guia simples para configurar um projeto com Firebase e Next.js.
+> **Nota**:  Este é um guia simples para configurar um projeto de authentificação com Firebase e Next.js.
 <h4>
 ✔️ | ❌
 <h3>
